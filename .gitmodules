@@ -1,3 +1,6 @@
 [submodule "BackEnd"]
 	path = BackEnd
 	url = https://github.com/ngotai109/BeTicketBooking.git
+[submodule "FrontEnd"]
+	path = FrontEnd
+	url = https://github.com/ngotai109/FeTicketBooking.git
